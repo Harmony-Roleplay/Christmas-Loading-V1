@@ -1,14 +1,12 @@
-# APOLO LOADINGSCREEN
+# Harmony Winter LOADINGSCREEN
 Just simple loadingscreen for you fivem server.
-
-# PREVIEW
-https://streamable.com/tx03du
 
 # FEATURES
 - Mute music
 - MP4 video
 - Add music
 - Add your logo
+- Snowflakes
 
 # INSTALATION
 Just drag and drop into your server
