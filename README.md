@@ -13,3 +13,7 @@ Just drag and drop into your server
 
 # CHANGE
 Music, Video and logo change in HTML - ASSETS
+
+### orignal repo
+```https://github.com/ApoloManCz/apolo_loadingscreen```
+also thanks to @ApoloManCz
